@@ -85,3 +85,10 @@ get pushed further out.
 - [ ] Deploy backend (Render) and frontend (GitHub Pages/Vercel)
 - [ ] Delete/edit problem entries
 - [ ] Export data as CSV
+
+**Live app:** https://monikagadage.github.io/interview-tracker/
+**Live API docs:** https://interview-tracker-api-kn5y.onrender.com/docs
+
+> Note: the backend is on Render's free tier, which spins down after 15 minutes
+> of inactivity. The first request after a while may take 30–50 seconds to
+> wake up — that's expected, not a bug.
