@@ -148,7 +148,7 @@ function App() {
               className="w-32 bg-slate-800 border border-slate-700 rounded-md px-3 py-2 text-sm"
             />
             <input
-              placeholder="Link (Prachub/1point3acres URL)"
+              placeholder="Paste problem URL"
               value={link}
               onChange={(e) => setLink(e.target.value)}
               className="flex-1 bg-slate-800 border border-slate-700 rounded-md px-3 py-2 text-sm"
