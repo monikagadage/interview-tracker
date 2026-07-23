@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://interview-tracker-api-kn5y.onrender.com";
 const FILTER_DAYS = { today: 0, "2days": 2, "7days": 7 };
 
 function App() {
